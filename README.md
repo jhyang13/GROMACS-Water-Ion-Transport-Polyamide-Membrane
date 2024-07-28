@@ -1,8 +1,8 @@
-### PA Membrane Codes
+# Understanding Water and Ion Transport Behavior through Polyamide Membranes
 
 - **Name:** Jiahui Yang
 - **Email:** jyang753@wisc.edu
-- **Home Department:** Mechanical Engineering
+- **Home Department:** Mechanical Engineering, UW-Madison
 - **Status:** PhD Student
 
-All codes related to polyamide membrane projects
+Python codes for plotting ion transport through a PA membrane using GROMACS and umbrella sampling
