@@ -5,4 +5,4 @@
 - **Home Department:** Mechanical Engineering, UW-Madison
 - **Status:** PhD Student
 
-Python codes for plotting ion transport through a PA membrane using GROMACS and umbrella sampling
+Python codes for plotting water and ion transport through a PA membrane using GROMACS and umbrella sampling
