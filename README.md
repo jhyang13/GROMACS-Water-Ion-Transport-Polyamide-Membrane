@@ -1,5 +1,7 @@
 # Understanding Water and Ion Transport Behavior through Polyamide Membranes
 
+Python codes for plotting the results from GROMACS simulations using umbrella sampling.
+
 ![image](https://github.com/user-attachments/assets/65906141-0f0d-4178-8e4f-467d76f6ce2c)
 
 ![image](https://github.com/user-attachments/assets/2629cf77-b3d8-4eb9-be1a-8986bd241421)
@@ -18,4 +20,4 @@
 - Discovered shortcomings in the umbrella sampling method for predicting free energy and proposed a new computational approach to provide more accurate free energy calculations for water and ion transport through hydrated PA membranes.
 
 
-Python codes for plotting water and ion transport through a PA membrane results using GROMACS and umbrella sampling
+
