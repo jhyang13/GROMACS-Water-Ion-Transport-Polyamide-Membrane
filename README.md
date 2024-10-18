@@ -1,5 +1,8 @@
 # Understanding Water and Ion Transport Behavior through Polyamide Membranes
 
+![image](https://github.com/user-attachments/assets/65906141-0f0d-4178-8e4f-467d76f6ce2c)
+
+![image](https://github.com/user-attachments/assets/2629cf77-b3d8-4eb9-be1a-8986bd241421)
 
 - **Name:** Jiahui Yang
 - **Email:** jyang753@wisc.edu
