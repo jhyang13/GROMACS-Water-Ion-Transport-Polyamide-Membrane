@@ -4,6 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/2629cf77-b3d8-4eb9-be1a-8986bd241421)
 
+### Student
 - **Name:** Jiahui Yang
 - **Email:** jyang753@wisc.edu
 - **Home Department:** Mechanical Engineering, UW-Madison
